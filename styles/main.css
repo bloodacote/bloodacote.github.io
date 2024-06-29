@@ -1,0 +1,63 @@
+:root{
+	--bg-left-col: #2d3447;
+    --bg-right-col: #1b172b;
+    --app-col: #383b43;
+
+    --app-width: 600px;
+}
+
+
+html{
+	width: 100vw;
+	min-height: 100vh;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	background: linear-gradient(45deg, var(--bg-left-col), var(--bg-right-col));
+}
+
+h1,h2,h3,h4,h5,h6{
+	width: 100%;
+	margin: 5px 0;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+html, button, input, textarea{
+	font-family: "Calibri";
+	font-size: 16pt;
+	color: white;
+}
+
+body{
+	width: var(--app-width);
+	height: calc(100% - 20px);
+	margin: 0;
+
+	background: var(--app-col);
+	border-radius: 12px;
+	border-top: 1px solid rgba(255,255,255,0.1);
+	border-bottom: 2px solid rgba(0,0,0,0.3);
+	box-shadow: 0px 5px 60px rgba(0,0,0,0.2);
+
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+
+
+
+h1{
+	font-size: 32pt;
+	font-weight: normal;
+}
+
+h2{
+	font-size: 14pt;
+	font-weight: normal;
+}
