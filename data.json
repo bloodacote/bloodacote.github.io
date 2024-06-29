@@ -1,5 +1,13 @@
 [
 	{
+		"name": "WAFLE",
+		"desc": "Web Advanced Free Lite Engine",
+		"prevSource": "/media/prevs/prev12.jpg",
+		"link": "https://docs.google.com/document/d/13LNJWlsN2A8JPNt9xM5knlHOrYQhW42e/edit?usp=sharing&ouid=114394007718550349251&rtpof=true&sd=true",
+		"htmlSource": "/pages/test.html"
+	},
+
+	{
 		"name": "SPAUK",
 		"desc": "Самописный web-фреймворк на JS/PHP",
 		"prevSource": "/media/prevs/prev1.jpg",
@@ -8,19 +16,19 @@
 	},
 
 	{
-		"name": "WAFLE",
-		"desc": "Web Advanced Free Lite Engine",
+		"name": "NeoNet",
+		"desc": "Социальная сеть с нуля в блокноте",
 		"prevSource": "/media/prevs/prev3.jpg",
 		"link": "https://www.youtube.com/watch?v=RwU5O6Eth5A",
 		"htmlSource": "/pages/test.html"
 	},
 
 	{
-		"name": "NeoNet",
-		"desc": "Социальная сеть с нуля в блокноте",
-		"prevSource": "/media/prevs/prev3.jpg",
-		"link": "https://www.youtube.com/watch?v=RwU5O6Eth5A",
-		"htmlSource": "/pages/test.html"
+		"name": "Lost Squad",
+		"desc": "2D-шутер на PC и Android",
+		"prevSource": "/media/prevs/prev9.jpg",
+		"link": "https://www.youtube.com/watch?v=3KF3gb3Yw7g&list=PL_mkCm8bkUfOdcF6QwNiOzlZkujiIdjI2",
+		"htmlSource": "/pages/spauk.html"
 	},
 
 	{
@@ -36,6 +44,14 @@
 		"desc": "Редактор статей для Geometry Dash википедии",
 		"prevSource": "/media/prevs/prev4.jpg",
 		"link": "https://www.youtube.com/watch?v=FsWTQ99HSjA",
+		"htmlSource": "/pages/spauk.html"
+	},
+
+	{
+		"name": "Corridor Ball",
+		"desc": "Мобильная успокаивающая игра",
+		"prevSource": "/media/prevs/prev7.jpg",
+		"link": "https://www.youtube.com/watch?v=cY9_wwLFMF8",
 		"htmlSource": "/pages/spauk.html"
 	},
 
@@ -56,22 +72,6 @@
 	},
 
 	{
-		"name": "Corridor Ball",
-		"desc": "Мобильная успокаивающая игра",
-		"prevSource": "/media/prevs/prev7.jpg",
-		"link": "https://www.youtube.com/watch?v=cY9_wwLFMF8",
-		"htmlSource": "/pages/spauk.html"
-	},
-
-	{
-		"name": "Lost Squad",
-		"desc": "2D-шутер на PC и Android",
-		"prevSource": "/media/prevs/prev9.jpg",
-		"link": "https://www.youtube.com/watch?v=3KF3gb3Yw7g&list=PL_mkCm8bkUfOdcF6QwNiOzlZkujiIdjI2",
-		"htmlSource": "/pages/spauk.html"
-	},
-
-	{
 		"name": "Neon Pursuit",
 		"desc": "Простая игра за 6 часов",
 		"prevSource": "/media/prevs/prev10.jpg",
@@ -84,22 +84,6 @@
 		"desc": "Сайт-демонлист для игры Geometry dash",
 		"prevSource": "/media/prevs/prev11.png",
 		"link": "https://www.youtube.com/watch?v=sQ-0gm3Nhfg",
-		"htmlSource": "/pages/test.html"
-	},
-
-	{
-		"name": "MILKES LAB",
-		"desc": "Мой сайт с моими играми",
-		"prevSource": "/media/prevs/prev8.jpg",
-		"link": "",
-		"htmlSource": "/pages/spauk.html"
-	},
-
-	{
-		"name": "The End",
-		"desc": "Пока что нового нчиего не вышло...",
-		"prevSource": "/media/prevs/prev1.jpg",
-		"link": "",
 		"htmlSource": "/pages/test.html"
 	}
 ]
