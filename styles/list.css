@@ -28,6 +28,7 @@ list tab{
 }
 
 list tab:hover{
+	background: rgba(255,255,255,0.15);
 	filter: brightness(1.25);
 	transform: scale(1.02);
 }
